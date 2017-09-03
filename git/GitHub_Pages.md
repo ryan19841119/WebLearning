@@ -73,3 +73,6 @@ git version 2.8.1
 3. `git add FILE`
 4. `git commit -m "MESSAGE"`
 5. `git push -u origin "BRANCH-NAME"`
+6. `git status`
+7. `git log`
+
