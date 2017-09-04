@@ -3,6 +3,7 @@
 ### Example
 ```javascript
 var cars = ["Saab", "Volvo", "BMW"];
+<<<<<<< HEAD
 ```
 
 ## What is an Array?
@@ -12,10 +13,13 @@ An array is a special variable, which can hold more than one value at a time.
 If you have a list of iterms (a list of car names, for example), storing the cars in single variables could look like this:
 
 ```javascript
+=======
+>>>>>>> f94ebb7a60ded41c4a0e960966bcf2684a550058
 var cars = [
 	"Saab",
 	"Volvo",
 	"BMW"
+<<<<<<< HEAD
 ];
 ```
 
@@ -44,6 +48,8 @@ var cars = [
     "Saab",
     "Volvo",
     "BMW"
+=======
+>>>>>>> f94ebb7a60ded41c4a0e960966bcf2684a550058
 ];
 ```
 
