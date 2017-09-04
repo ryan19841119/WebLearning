@@ -1,9 +1,6 @@
 # JavaScript Arrays
 ```javascript
 var cars = ["Saab", "Volvo", "BMW"];
-```
-
-```javascript
 var cars = [
 	"Saab",
 	"Volvo",
