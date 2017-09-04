@@ -1,3 +1,4 @@
+[github-cli](https://services.github.com/on-demand/github-cli/open-pull-request-github)
 # Git Configuration
 
 1. Open your terminal application.
@@ -69,10 +70,27 @@ git version 2.8.1
 
 # Most important
 1. `git clone URL`
-2. `git branch BRANCH-NAME`
+2. `git branch -b "BRANCH-NAME"`
 3. `git add FILE`
 4. `git commit -m "MESSAGE"`
 5. `git push -u origin "BRANCH-NAME"`
 6. `git status`
 7. `git log`
+
+# Merge Your Pull Request on GitHub
+
+1. On GitHub.com, navigate to the Pull Request that you just opened.
+2. Scroll down and click the big green **Merge Pull Request** button. 
+
+# View Your GitHub Pages Site
+1. site: `https://YOUR-USERNAME.github.io/`
+
+# Git Push & Git Pull
+1. In your command line, type `git checkout master`.
+2. Type `git pull`.
+
+# Add Your GitHub Pages Site to the Showcase
+1. Visit the [class repository](https://github.com/githubschool/on-demand-github-pages/). 
+2. Click the **Issues tab**. 
+3. Request push access by creating an **[Issue](https://github.com/githubschool/on-demand-github-pages/issues/)**. 
 
